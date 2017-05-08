@@ -1,0 +1,6 @@
+framework module Pods_YYNews {
+  umbrella header "Pods-YYNews-umbrella.h"
+
+  export *
+  module * { export * }
+}
